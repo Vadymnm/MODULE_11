@@ -2,7 +2,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-
+#
 # np.random.seed(19680801)  # seed the random number generator.
 # data = {'a': np.arange(50),
 #         'c': np.random.randint(0, 50, 50),
@@ -17,7 +17,7 @@ import numpy as np
 # plt.show()
 
 # ------------------------------------------------------------------------
-#
+
 x = np.linspace(0, 2, 100)  # Sample data.
 
 plt.figure(figsize=(10, 5.4), layout='constrained')
